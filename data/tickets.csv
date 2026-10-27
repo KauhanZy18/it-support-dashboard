@@ -1,0 +1,36 @@
+ticket_id,titulo,solicitante,setor,categoria,prioridade,status,data_abertura,data_resolucao,tempo_resolucao_horas,satisfacao
+1001,Impressora não imprime,João Silva,TI,Hardware,Media,Resolvido,2024-01-05,2024-01-05,2,4
+1002,Acesso ao sistema recusado,Maria Santos,RH,Software,Alta,Resolvido,2024-01-07,2024-01-07,1,5
+1003,Computador lento,Pedro Oliveira,Financeiro,Desempenho,Média,Aberto,2024-01-10,,0,0
+1004,E-mail não envia,Ana Costa,Vendas,Rede,Baixa,Em Andamento,2024-01-12,,0,0
+1005,Tela azul no boot,Carlos Pereira,Administrativo,Crítica,Crítica,Resolvido,2024-01-14,2024-01-15,12,3
+1006,Instalar software novo,Luciana Ferreira,TI,Software,Alta,Resolvido,2024-01-16,2024-01-16,3,5
+1007,Rede Wi-Fi instável,Marcos Almeida,Marketing,Rede,Média,Aberto,2024-01-18,,0,0
+1008,Backup não executou,Juliana Lima,Infraestrutura,Infraestrutura,Alta,Resolvido,2024-01-20,2024-01-20,4,4
+1009,Periféricos não reconhecidos,Rodrigo Souza,TI,Hardware,Baixa,Fechado,2024-01-22,2024-01-22,1,5
+1010,Licença de antivírus expirou,Patrícia Rocha,Administrativo,Segurança,Crítica,Resolvido,2024-01-23,2024-01-23,2,4
+1011,Vírus detectado no PC,Fernando Dias,Vendas,Segurança,Alta,Resolvido,2024-01-25,2024-01-26,18,3
+1012,Atualização do Windows travando,Beatriz Araújo,TI,Software,Média,Em Andamento,2024-01-27,,0,0
+1013,Conexão VPN caída,Ricardo Mendes,RH,Rede,Média,Resolvido,2024-01-28,2024-01-28,3,4
+1014,Caderno de endereços corrompido,Carla Nunes,Vendas,Software,Baixa,Resolvido,2024-01-29,2024-01-30,6,5
+1015,Espaço em disco insuficiente,Thiago Barros,Financeiro,Hardware,Média,Aberto,2024-01-31,,0,0
+1016,Permissão de pasta negada,Renan Campos,TI,Software,Alta,Resolvido,2024-02-01,2024-02-01,2,4
+1017,Monitor com defeito,Amanda Reis,Administrativo,Hardware,Baixa,Fechado,2024-02-02,2024-02-02,1,5
+1018,Teclado com teclas travadas,Diego Santos,TI,Hardware,Média,Em Andamento,2024-02-03,,0,0
+1019,Configurar novo laptop,Eduarda Lima,RH,Hardware,Alta,Resolvido,2024-02-04,2024-02-04,4,5
+1020,Problema com compartilhamento de arquivos,Felipe Costa,Vendas,Rede,Média,Resolvido,2024-02-05,2024-02-05,3,4
+1021,Acesso remoto não funciona,Gabriela Dias,TI,Software,Baixa,Resolvido,2024-02-06,2024-02-06,2,5
+1022,Celular não conecta na rede,Henrique Souza,RH,Rede,Média,Aberto,2024-02-07,,0,0
+1023,Software de contabilidade lento,Ivana Martins,Financeiro,Software,Alta,Resolvido,2024-02-08,2024-02-09,8,3
+1024,Câmera web não funciona,João Pereira,TI,Hardware,Baixa,Fechado,2024-02-10,2024-02-10,1,5
+1025,Instalar drivers de impressora,Karina Alves,RH,Hardware,Média,Resolvido,2024-02-11,2024-02-11,2,4
+1026,Acesso ao servidor de arquivos falhou,Leonardo Santos,Infraestrutura,Rede,Alta,Em Andamento,2024-02-12,,0,0
+1027,Impressora bloqueada,Marina Costa,Vendas,Hardware,Baixa,Resolvido,2024-02-13,2024-02-13,1,5
+1028,Senha expirada não altera,Nicola Almeida,TI,Software,Média,Resolvido,2024-02-14,2024-02-14,1,4
+1029,Placa de rede não detectada,Olivia Ferreira,Administrativo,Hardware,Crítica,Crítica,Aberto,2024-02-15,,0,0
+1030,Configurar e-mail no celular,Paulo Lima,RH,Rede,Baixa,Resolvido,2024-02-16,2024-02-16,2,5
+1031,Arquivo corrompido no servidor,Queiroz Nunes,TI,Software,Alta,Resolvido,2024-02-17,2024-02-18,10,3
+1032,Instalar pacote Office,Rebeca Mendes,Financeiro,Software,Média,Resolvido,2024-02-19,2024-02-19,3,5
+1033,Lentidão no login do Windows,Sergio Dias,Vendas,Desempenho,Média,Em Andamento,2024-02-20,,0,0
+1034,Configurar scanner,Rafael Costa,RH,Hardware,Baixa,Fechado,2024-02-21,2024-02-21,1,4
+1035,Conflito de IPs na rede,Tatiana Almeida,TI,Rede,Alta,Resolvido,2024-02-22,2024-02-22,4,4
